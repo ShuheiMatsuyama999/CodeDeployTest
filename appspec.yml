@@ -3,6 +3,3 @@ os: linux
 files:
   - source: src/
     destination: /home/www-virtual/www.blogtest.jp/htdocs/wordpress
-files:
-  - source: test/
-    destination: /home/www-virtual/www.blogtest.jp/htdocs
