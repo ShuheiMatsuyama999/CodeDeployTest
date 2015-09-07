@@ -6,3 +6,6 @@ files:
 files:
   - source: test/
     destination: /home/www-virtual/www.blogtest.jp/htdocs
+files:
+  - source: hoge/
+    destination: /home/www-virtual/www.blogtest.jp/htdocs/hoge
